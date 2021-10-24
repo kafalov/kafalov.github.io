@@ -37,7 +37,7 @@
 @import url("vendors/default-skin.css");
 @import url("../icons/style-custome-icons.css");
 @import url("../icons/feather.css");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 :root {
   --font-family: 'Poppins', sans-serif;
   --font-base-size: 15px;
@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .block-quote::before {
-  background-image: url(https://art-template.ru/vcard4/assets/icons/icon-quote.svg);
+  background-image: url(../icons/icon-quote.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1825,7 +1825,7 @@ button:focus {
 }
 
 #marker {
-  background-image: url("https://art-template.ru/vcard4/assets/images/icon-map-pic.svg");
+  background-image: url("../images/icon-map-pic.svg");
   background-size: cover;
   width: 3.75rem;
   height: 3.75rem;
@@ -3058,7 +3058,7 @@ button:focus {
 }
 
 .review-item::before {
-  background: var(--color-gradient-soft) url(https://art-template.ru/vcard4/assets/icons/icon-quote.svg);
+  background: var(--color-gradient-soft) url(../icons/icon-quote.svg);
   background-repeat: no-repeat;
   background-position: 0 0, right 1.875rem top 1.5rem;
 }
@@ -3104,7 +3104,7 @@ button:focus {
 }
 
 .review-icon-quote {
-  background: url(https://art-template.ru/vcard4/assets/icons/icon-quote.svg);
+  background: url(../icons/icon-quote.svg);
   background-repeat: no-repeat;
   background-position: center;
   margin: auto 0;
