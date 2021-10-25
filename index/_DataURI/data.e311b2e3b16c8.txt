@@ -1,0 +1,1 @@
+chrome-extension://kdgipepeekcahneeconkmjfkahppjmdb/sunami.js
